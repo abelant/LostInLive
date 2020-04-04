@@ -1,0 +1,10 @@
+{
+	"video": {
+		"lil": {
+			"service": "video",
+			"serviceType": "livestream",
+			"providerPlugin": "awscloudformation",
+			"sha": "3bb673e3c46552305c943b78f71847d9c2b89e18"
+		}
+	}
+}

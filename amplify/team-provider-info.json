@@ -1,0 +1,15 @@
+{
+    "lil": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-lil-lil-50146-authRole",
+            "UnauthRoleArn": "arn:aws:iam::083517792887:role/amplify-lil-lil-50146-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::083517792887:role/amplify-lil-lil-50146-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-lil-lil-50146-deployment",
+            "UnauthRoleName": "amplify-lil-lil-50146-unauthRole",
+            "StackName": "amplify-lil-lil-50146",
+            "StackId": "arn:aws:cloudformation:eu-west-2:083517792887:stack/amplify-lil-lil-50146/010baae0-7629-11ea-9701-0617023ccf6e",
+            "AmplifyAppId": "d2z1y2g9gsutfi"
+        }
+    }
+}

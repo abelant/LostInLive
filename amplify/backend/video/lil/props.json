@@ -1,0 +1,25 @@
+{
+    "shared": {
+        "bucket": "amplify-lil-lil-50146-deployment",
+        "resourceName": "lil"
+    },
+    "advanced": {
+        "gopSize": "1",
+        "gopPerSegment": "2",
+        "segsPerPlist": "3",
+        "advancedChoice": false
+    },
+    "mediaLive": {
+        "securityGroup": "0.0.0.0/0",
+        "ingestType": "MP4_FILE",
+        "encodingProfile": "FULL",
+        "autoStart": "NO",
+        "mp4URL": ""
+    },
+    "mediaStorage": {
+        "storageType": "mStore"
+    },
+    "cloudFront": {
+        "enableDistribution": "NO"
+    }
+}
